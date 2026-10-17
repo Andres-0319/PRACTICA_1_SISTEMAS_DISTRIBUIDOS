@@ -1,5 +1,5 @@
 <div align = "center"><strong>
-** Universidad Politécnica Salesiana **
+Universidad Politécnica Salesiana
 </strong></div>
 
 ** Carrera de Computación **
