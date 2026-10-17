@@ -25,10 +25,11 @@ Evolucionar el código base del servidor de eco y cliente actual hacia un sistem
 
 <img width="655" height="483" alt="image" src="https://github.com/user-attachments/assets/b01aea65-3fdf-4b8b-a7d4-d176700d595e" />
 
-**Paso 4:**
+**Paso 4:** Desde el cliente 2, se repite el proceso del cliente 1 para comenzar con el chat correspondiente.
 
-**Paso 5:**
-
-**Paso 6:**
+<img width="907" height="585" alt="image" src="https://github.com/user-attachments/assets/e010b15e-3ed0-4830-8316-aff22d9078ac" />
 
 **Conclusiones**
+
+- Conclusión 1
+- Conclusión 2
