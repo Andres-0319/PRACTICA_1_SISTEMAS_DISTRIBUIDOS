@@ -1,6 +1,6 @@
-<div align = "center">
+<div align = "center"><strong>
 ** Universidad Politécnica Salesiana **
-</div>
+</strong></div>
 
 ** Carrera de Computación **
 ** Asignatura de Sistemas Distribuidos **
