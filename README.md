@@ -28,7 +28,7 @@ Evolucionar el código base del servidor de eco y cliente actual hacia un sistem
 
 <img width="886" height="140" alt="image" src="https://github.com/user-attachments/assets/515b0495-de80-4824-84a7-84b8f40cb4b1" />
 
-**Paso 3:** Desde el cliente 1, se realiza la ejecución del archivo "cliente.py" para iniciar el chat correspondiente.
+**Paso 3:** Para dar inicio a la interacción comunicativa desde la perspectiva del usuario, el primer cliente accede a su terminal y activa su entorno virtual local, ejecutando el script del cliente mediante el comando de Python para establecer un canal de comunicación directo con la dirección del servidor correspondiente. Una vez que se haya ingresado los datos requeridos por el sistema, se inicia con éxito la sesión correspondiente mostrando un mensaje de confirmación de conexión en la consola del usuario evidenciándose el intercambio de mensajes de prueba enviados y la recepción sincronizada de las notificaciones del sistema del chat. 
 
 <img width="655" height="483" alt="image" src="https://github.com/user-attachments/assets/b01aea65-3fdf-4b8b-a7d4-d176700d595e" />
 
