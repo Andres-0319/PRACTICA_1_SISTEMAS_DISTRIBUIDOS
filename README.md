@@ -24,7 +24,7 @@ Evolucionar el código base del servidor de eco y cliente actual hacia un sistem
 
 <img width="652" height="134" alt="image" src="https://github.com/user-attachments/assets/d7b7004e-6dce-45b2-b38f-706c772fec38" />
 
-**Paso 2:** Se verifica la conexión de los dos clientes al servidor.
+**Paso 2:** Una vez que el servidor se encuentre ejecutándose y escuchando activamente, se ejecuta el procedimiento que consiste en validar las conexiones entrantes en la que se podrá monitorear en tiempo real cada uno de los eventos de red generados por los usuarios a través de la consola del servidor principal. El sistema registrará de manera automática y secuencial las direcciones IP junto con los puertos dinámicos utilizados por cada máquina cliente; cada evento queda debidamente documentado con su respectiva marca de tiempo, permitiendo comprobar la estabilidad del sistema multihilo implementado.
 
 <img width="886" height="140" alt="image" src="https://github.com/user-attachments/assets/515b0495-de80-4824-84a7-84b8f40cb4b1" />
 
