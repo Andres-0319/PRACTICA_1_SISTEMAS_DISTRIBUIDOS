@@ -1,8 +1,9 @@
 <div align = "center">
 ** Universidad Politécnica Salesiana **
+</div>
+
 ** Carrera de Computación **
 ** Asignatura de Sistemas Distribuidos **
-</div>
 
 **Integrantes:** Burgos Andrés, Morales Pool, Narváez Cristian
 
