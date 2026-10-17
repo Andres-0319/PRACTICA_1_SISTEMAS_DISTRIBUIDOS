@@ -32,7 +32,7 @@ Evolucionar el código base del servidor de eco y cliente actual hacia un sistem
 
 <img width="655" height="483" alt="image" src="https://github.com/user-attachments/assets/b01aea65-3fdf-4b8b-a7d4-d176700d595e" />
 
-**Paso 4:** Desde el cliente 2, se repite el proceso del cliente 1 para comenzar con el chat correspondiente.
+**Paso 4:** Para completar satisfactoriamente el escenario de pruebas del sistema distribuido multihilo, el segundo usuario procederá a replicar los pasos de inicialización mencionados anteriormente. Desde la otra máquina dentro de la misma red local, se activa el entorno de trabajo y se ejecuta el script del cliente correspondiente, permitiendo apreciar como el sistema notifica de inmediato la incorporación del nuevo participante a todos los usuarios conectados. Cuando ambos clientes ejecutan los respectivos archivos de Python, ambos podrán intercambiar mensajes en tiempo real validando la funcionalidad del broadcast implementada en la arquitectura del servidor.
 
 <img width="907" height="585" alt="image" src="https://github.com/user-attachments/assets/e010b15e-3ed0-4830-8316-aff22d9078ac" />
 
