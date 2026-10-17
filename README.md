@@ -38,5 +38,5 @@ Evolucionar el código base del servidor de eco y cliente actual hacia un sistem
 
 **Conclusiones**
 
-- Conclusión 1DFB
-- Conclusión 2
+- El uso de sockets multihilo en combinación con la gestión de hilos independientes permitió la construcción de un servidor y cliente concurrentes capaces de procesar mensajes en tiempo real sin interrupciones en la interfaz de comandos.
+- La correcta elaboración del código bajo principios de diseño y un robusto manejo de excepciones garantizó la estabilidad del sistema ante la conexión y desconexión simultánea de múltiples usuarios en la red LAN.
