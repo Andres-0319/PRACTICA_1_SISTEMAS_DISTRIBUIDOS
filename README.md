@@ -1,7 +1,9 @@
+<div align = "center">
 # Universidad Politécnica Salesiana
 # Carrera de Computación
 # Asignatura de Sistemas Distribuidos
 **Integrantes:** Burgos Andrés, Morales Pool, Narváez Cristian
+</div>
 
 **Fecha:** 22 de octubre de 2026
 
