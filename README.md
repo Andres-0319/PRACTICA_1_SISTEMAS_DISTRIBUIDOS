@@ -20,7 +20,7 @@ Evolucionar el código base del servidor de eco y cliente actual hacia un sistem
 
 **Desarrollo de la actividad**
 
-**Paso 1:** Configurar y preparar adecuadamente el entorno virtual de trabajo dentro del sistema operativo Linux Ubuntu, para luego proceder con la ejecución del script principal del servidor utilizando el lenguaje de programación Python en la consola correspondiente.
+**Paso 1:** Configurar y preparar adecuadamente el entorno virtual de trabajo dentro del sistema operativo Linux Ubuntu, para luego proceder con la ejecución del script principal del servidor utilizando el lenguaje de programación Python en la consola correspondiente. Esta acción permitirá inicializar el proceso de escucha activa en la red local a través del uso de sockets orientados a conexión bajo el protocolo TCP, y hará que el servidor se vincule de forma correcta a todas las interfaces disponibles especificando la dirección IP genérica y asignando el puerto de red definido.
 
 <img width="652" height="134" alt="image" src="https://github.com/user-attachments/assets/d7b7004e-6dce-45b2-b38f-706c772fec38" />
 
