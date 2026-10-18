@@ -40,7 +40,7 @@ Evolucionar el código base del servidor de eco y cliente actual hacia un sistem
 
 <img width="1128" height="583" alt="image" src="https://github.com/user-attachments/assets/25f1cd72-14a8-4c3d-a2d2-e6936aa3e819" />
 
-**Paso 6:** Se probó la conexión nuevamente entre el servidor y el cliente de forma local.
+**Paso 6:** Como parte final del proceso de depuración y validación del código correspondiente, se llevó a cabo una verificación integral del entorno de desarrollo de VS Code. En su interfaz gráfica, se muestra el editor con el script principal del servidor destacando las funciones lógicas encargadas de la codificación y la recepción de mensajes, mostrándose una ejecución exitosa del archivo "server.py" que se encarga de escuchar activamente la dirección IP local estipulada desde el inicio de las pruebas correspondientes.
 
 <img width="955" height="972" alt="image" src="https://github.com/user-attachments/assets/d10e9e1c-1de4-4584-88dc-521174596b3e" />
 
