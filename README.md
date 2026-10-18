@@ -36,6 +36,16 @@ Evolucionar el código base del servidor de eco y cliente actual hacia un sistem
 
 <img width="907" height="585" alt="image" src="https://github.com/user-attachments/assets/e010b15e-3ed0-4830-8316-aff22d9078ac" />
 
+**Paso 5:** Para validar el comportamiento del sistema ante la desconexión voluntaria del usuario correspondiente, se realizaron pruebas adicionales ejecutando el servidor de forma local. En la evidencia visual, se observa la interacción del usuario 1 (Pool Morales), quien se encarga de establecer una conexión mediante la interfaz del bucle localhost; y también se observa el ingreso del usuario 2 (Jose), probando el envío de mensajes de texto y comandos de control interactivo, en donde el usuario evalúa diferentes alternativas para abandonar la sesión actual introduciendo comandos como "/salir".
+
+<img width="1128" height="583" alt="image" src="https://github.com/user-attachments/assets/25f1cd72-14a8-4c3d-a2d2-e6936aa3e819" />
+
+**Paso 6:** Se probó la conexión nuevamente entre el servidor y el cliente de forma local.
+
+<img width="955" height="972" alt="image" src="https://github.com/user-attachments/assets/d10e9e1c-1de4-4584-88dc-521174596b3e" />
+
+**Paso 7:**
+
 **Conclusiones**
 
 - El uso de sockets multihilo en combinación con la gestión de hilos independientes permitió la construcción de un servidor y cliente concurrentes capaces de procesar mensajes en tiempo real sin interrupciones en la interfaz de comandos.
