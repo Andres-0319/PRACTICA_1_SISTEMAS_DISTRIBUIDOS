@@ -44,8 +44,6 @@ Evolucionar el código base del servidor de eco y cliente actual hacia un sistem
 
 <img width="955" height="972" alt="image" src="https://github.com/user-attachments/assets/d10e9e1c-1de4-4584-88dc-521174596b3e" />
 
-**Paso 7:**
-
 **Conclusiones**
 
 - El uso de sockets multihilo en combinación con la gestión de hilos independientes permitió la construcción de un servidor y cliente concurrentes capaces de procesar mensajes en tiempo real sin interrupciones en la interfaz de comandos.
